@@ -8,6 +8,7 @@ output:
 ---
 
 UT eid: syn228
+Github repo: https://github.com/SemyonNikulin/HW2
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
